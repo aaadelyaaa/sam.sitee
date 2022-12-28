@@ -1,0 +1,63 @@
+body {
+    font-family: sans-serif;
+}
+
+body {
+    font-family: Arial;
+}
+
+header{
+width: 960px;
+height: 101px;
+background: #0776A0;
+}
+
+header img{
+   position: absolute;
+   margin:20px 839px 21px 15px;
+}
+
+a{
+    text-decoration: none;
+    border-radius: 10px;
+    color: black;
+    background:#FFB600;
+    font-size: 36px;
+    position: absolute;
+    margin: 40px 689px 21px 135px;
+    padding: 0px 5px 0px 5px;
+}
+
+h2{
+    font-size: 36px;
+    color: #FF2C00;
+    margin-left: 42px;
+}
+
+
+.zagolovok1{
+    font-size: 48px;
+    width: 459px;
+    height: 66px;
+    margin-left: 280px;
+    margin-top: 34px;
+}
+
+p img{
+    margin: 10px;
+}
+
+footer{
+    background: #024c68;
+    width: 959px;
+    height: 161px;
+    padding: 10px;
+}
+
+footer p{
+    color:white;
+    font-size: 24px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
